@@ -1,0 +1,33 @@
+.tweet{
+    margin: 10px auto;
+    border: 2px solid #1D5C63;
+    height: auto;
+    max-height: 300px;
+    width: 400px;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+      
+}
+.tweet:hover{
+    border: 2px solid rgb(231, 164, 63);
+}
+.clicked{
+    color: #1A3C40;
+    background-color: white;
+    border: 2px dotted #1D5C63;
+}
+.content{
+    text-align: left;
+}
+.btn{
+    margin-top: 10px;
+    color: #1D5C63;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    color: white;
+    background-color: #1D5C63;
+}
