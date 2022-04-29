@@ -8,6 +8,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   width: 80%;
   background-color: #EDE6DB;
+  font-family: 'Raleway', sans-serif;
 }
 
 code {

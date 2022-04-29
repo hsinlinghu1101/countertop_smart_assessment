@@ -1,0 +1,10 @@
+.tweet{
+    margin: 10px auto;
+    border: 2px solid #1D5C63;
+    height: auto;
+    max-height: 300px;
+    width: 400px;
+    padding: 20px;
+    border-radius: 5px;
+      
+}
